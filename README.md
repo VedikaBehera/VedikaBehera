@@ -4,8 +4,8 @@ I'm Vedika Behera<br><br>
 
 🎓 Bachelor’s in Psychology | MBA from IIM Trichy <br>
 💻 Currently driving category growth at Swiggy,<br>
-deepening my knowledge of consumer behavior, 🛍️<br>
-strategy, and marketing.
+deepening my knowledge of consumer behavior, <br>
+🛍️ strategy, and marketing.
 
 
 
