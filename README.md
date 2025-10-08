@@ -25,7 +25,15 @@ strategy, and marketing.
 
 [![Play the Lifebuoy Game](https://img.shields.io/badge/Play%20the%20Lifebuoy%20Game%3F-FF0000?style=flat&logo=&logoColor=white&color=FF0000&labelColor=FF0000&logoWidth=20)](https://www.dropbox.com/scl/fi/w9acm62buiu8q4nliz0jp/Lifebuoy-Brand-Gamification.m)
 
-[![Samsung IOT Penetration](https://img.shields.io/badge/Samsung%20IOT%20Penetration-D3D3D3?style=flat&logo=&logoColor=black&color=D3D3D3&labelColor=D3D3D3&logoWidth=20)](https://www.dropbox.com/scl/fi/k8m1p1sp4l536vaz9750b/Samsung-s-New-Tech.png?rlkey=8jfzp3cd8q4wltkwn6i52vrpa&st=kz6yzko)
+
+[![Market Research : Medimix](https://img.shields.io/badge/Market%20Research%20%3A%20Medimix-006400?style=flat&logo=&logoColor=FFFFE0&color=006400&labelColor=006400&logoWidth=20)](https://www.dropbox.com/scl/fi/96efs029dbaliytpw24rf/Medimix.png?rlkey=jmqimmqzkdt9bwjavoemluwxf&st=ju8kiys9&dl=0)
+
+
+[![Hieq.in: Hiring Solution](https://img.shields.io/badge/Hieq.in%3A%20Hiring%20Solution-FFFACD?style=flat&logo=&logoColor=77DD77&color=FFFACD&labelColor=FFFACD&logoWidth=20)](https://www.dropbox.com/scl/fi/llj64y03p9uac7rix0lpn/Hieq.in-Analysis.png?rlkey=9vjkqix6apb3rqy1jhz2672jg&st=9d9lp7aj&dl=0)
+
+[![Samsung IOT Penetration](https://img.shields.io/badge/Samsung%20IOT%20Penetration-FFFFFF?style=flat&logo=&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&logoWidth=20)](https://www.dropbox.com/scl/fi/k8m1p1sp4l536vaz9750b/Samsung-s-New-Tech.png?rlkey=8jfzp3cd8q4wltkwn6i52vrpa&st=kz6yzko)
+
+
 
 
 ---
