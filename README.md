@@ -5,6 +5,11 @@ Hi! 👋<br><br>I'm Vedika Behera<br><br>🎓 Bachelor’s in Psychology | MBA f
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedikabehera/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beheravedika@gmail.com) 
 
+### 📄 Resume
+Here's what I've been up to 📋  
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://smallpdf.com/file#s=242980f0-b91a-463d-bcee-60a1b2290f44)
+
+
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
