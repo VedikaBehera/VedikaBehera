@@ -2,14 +2,10 @@
 Hi! 👋<br><br>
 I'm Vedika Behera<br><br>
 
-I'm driven by a deep curiosity about what makes people tick, blending psychology with business to decode consumer behavior and <br>
-turn insights into action. 💻
-
-With a background in Psychology and an MBA from IIM Trichy, I’ve worked across sales and category management at Swiggy-handling 
-everything from brand partnerships,supply operations,growth, pricing, assortment to forecasting and cross-functional execution 
-for categories like chocolates at Instamart and fresh food at Snacc, Swiggy's 0-to-1 QSR venture. 📦
-
-I'm always looking to deepen my understanding of industries and how market forces play out, while keeping the customer at the heart of it all. 🛍️
+🎓 Bachelor’s in Psychology | MBA from IIM Trichy <br>
+💻 Currently driving category growth at Swiggy,<br>
+deepening my knowledge of consumer behavior, 🛍️<br>
+strategy, and marketing.
 
 
 
