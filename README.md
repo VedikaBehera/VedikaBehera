@@ -3,7 +3,7 @@ Hi! 👋<br><br>I'm Vedika Behera<br><br>🎓 Bachelor’s in Psychology | MBA f
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedikabehera/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beheravedika@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/vedikabehera/](https://www.linkedin.com/in/vedikabehera?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beheravedika@gmail.com) 
 
 ## 📄 Resume :
 [![Resume](https://img.shields.io/badge/View%20My%20Resume-3DBE29?style=flat&logo=dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/bkr7c7ss7962xdgclqnfk/VedikaBehera_IIMTiruchirapalli.pdf?rlkey=vnezum1io8mdqpjcwld9m2rzd&st=o4fa7u9t&dl=0)
