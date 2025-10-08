@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi! 👋<br><br>I'm Vedika <br><br><br>💻Currently driving category growth at Swiggy, <br>deepening my knowledge of consumer behavior 🛍️<br>strategy, and marketing. <br><br>💡Always open to new learning opportunities and <br>challenges in this space.
+ Hi! 👋<br><br>I'm Vedika Behera <br><br><br>💻Currently driving category growth at Swiggy, <br>deepening my knowledge of consumer behavior 🛍️<br>strategy, and marketing. <br><br>💡Always open to new learning opportunities and <br>challenges in this space.
 
 
 ## 🌐 Socials:
