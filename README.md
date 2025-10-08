@@ -7,7 +7,8 @@ Hi! 👋<br><br>I'm Vedika Behera<br><br>🎓 Bachelor’s in Psychology | MBA f
 
 ### 📄 Resume
 Here's what I've been up to 📋  
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-green?style=for-the-badge&logo=dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/bkr7c7ss7962xdgclqnfk/VedikaBehera_IIMTiruchirapalli.pdf?rlkey=vnezum1io8mdqpjcwld9m2rzd&st=o4fa7u9t&dl=0)
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-3DBE29?style=flat&logo=dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/bkr7c7ss7962xdgclqnfk/VedikaBehera_IIMTiruchirapalli.pdf?rlkey=vnezum1io8mdqpjcwld9m2rzd&st=o4fa7u9t&dl=0)
+
 
 
 # 💻 Tech Stack:
