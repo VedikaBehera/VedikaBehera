@@ -3,15 +3,15 @@
 Hello! <br>
 
 
-I’m driven by the curiosity to uncover what shapes consumer decisions, blending insights from psychology and business. <br>
+I’m curious about what drives consumer decisions, blending psychology and business insights. <br>
+With a Psychology degree and an MBA from IIM Trichy, I currently lead category growth at Swiggy.
 
-With a Bachelor’s in Psychology and an MBA from IIM Trichy , I currently drive category growth at Swiggy.
+I’ve managed chocolates at Instamart and was part of the founding team for Snacc, Swiggy’s QSR venture, 
+focusing on category metrics, operations, growth, and vendor partnerships. 
+<br>Data guides my strategic decisions.
 
-From managing chocolates at Instamart to being part of the founding team for Snacc: Swiggy’s 0-to-1 QSR venture, I’ve worked across category metrics, supply operations, growth and vendor partnerships. I rely on data to uncover insights and turn them into actionable strategy.
-
-I began my career in direct sales and have always enjoyed applying a research-led approach through case studies  and strategic problem solving. <br>
-
-Currently sharpening my SQL skills and always up for new business challenges.
+I started in direct sales and enjoy research-led problem solving. <br>
+Currently, I’m improving my SQL skills and eager for new business challenges.
 
 
 ## 🌐 Socials:
