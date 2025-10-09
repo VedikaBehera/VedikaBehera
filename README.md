@@ -28,10 +28,11 @@ partnerships, all driven by data-driven strategies.
   <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
     1. New product launch strategy
   </div>
-  <a href="https://www.dropbox.com/scl/fi/mwh14ulyhemzo1274l8nm/Whole-Truth-Dilemma.pdf?rlkey=bxzwlry2s90yjsr0pe8cq193k&st=nmjkprki&dl=0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+  <a href="https://apps.rediafile.com/11cM/Whole_Truth_Dilemma.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/GTM%3A%20The%20Whole%20Truth-FFC0CB?style=flat&logo=&logoColor=purple&color=FFC0CB&labelColor=FFC0CB&logoWidth=20" alt="GTM: The Whole Truth" />
   </a>
 </div>
+
 
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
   <div style="font-size: 12px; color: #333; margin-bottom: 6px;"> 
