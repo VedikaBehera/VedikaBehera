@@ -6,8 +6,9 @@ Hello! <br>
 I’m curious about what drives consumer decisions, blending psychology and business insights. <br>
 With a Psychology degree and an MBA from IIM Trichy, I currently lead category growth at Swiggy.
 
-I’ve managed a 70+Cr portfolio at Instamart and I'm part of the founding team for Snacc, Swiggy’s QSR venture, which scaled from 4 to 60+ locations, 
-My focus area include category metrics, supply & operations, growth,and vendor partnerships, all driven by data-driven strategies.
+I’ve managed a 70+Cr portfolio at Instamart and I'm part of the founding team for Snacc, Swiggy’s QSR venture, <br>
+which scaled from 4 to 60+ locations. My focus area include category metrics, supply & operations, growth,and vendor <br>
+partnerships, all driven by data-driven strategies.
 
 
 
