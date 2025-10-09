@@ -28,7 +28,7 @@ Currently, I’m improving my SQL skills and eager for new business challenges.
 
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
   <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
-    1. Exploring whitespace in a brand’s portfolio
+    1. New product launch strategy
   </div>
   <a href="https://www.dropbox.com/scl/fi/mwh14ulyhemzo1274l8nm/Whole-Truth-Dilemma.pdf?rlkey=bxzwlry2s90yjsr0pe8cq193k&st=nmjkprki&dl=0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/GTM%3A%20The%20Whole%20Truth-FFC0CB?style=flat&logo=&logoColor=purple&color=FFC0CB&labelColor=FFC0CB&logoWidth=20" alt="GTM: The Whole Truth" />
@@ -48,7 +48,7 @@ Currently, I’m improving my SQL skills and eager for new business challenges.
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
   <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
       <br>
-    3. Understanding consumer behavior in the facewash category.
+    3. Brand repositioning strategy : Facewash Category
   </div>
   <a href="https://www.dropbox.com/scl/fi/96efs029dbaliytpw24rf/Medimix.png?rlkey=jmqimmqzkdt9bwjavoemluwxf&st=ju8kiys9&dl=0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Market%20Research%20%3A%20Medimix-006400?style=flat&logo=&logoColor=FFFFE0&color=006400&labelColor=006400&logoWidth=20" alt="Market Research : Medimix" />
@@ -68,12 +68,21 @@ Currently, I’m improving my SQL skills and eager for new business challenges.
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
   <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
       <br>
-    5. Market research & strategy to enter Indian IoT market.
+    5. Strategic market entry analysis for Indian IoT segment
   </div>
   <a href="https://www.dropbox.com/scl/fi/k8m1p1sp4l536vaz9750b/Samsung-s-New-Tech.png?rlkey=8jfzp3cd8q4wltkwn6i52vrpa&st=kz6yzko" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Samsung%20IOT%20Penetration-FFFFFF?style=flat&logo=&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&logoWidth=20" alt="Samsung IOT Penetration" />
   </a>
 </div>
+<br>
+
+<div>
+  <div>6. Pricing Strategy Optimization: Freemium to Premium</div>
+  <a href="https://www.dropbox.com/scl/fi/5lzh5op0f00p3o7wei84w/Spotify.png?rlkey=bkazgrsv9geabsizeciagos4t&st=4t6csx14&dl=0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Spotify%20Pricing%20Strategy-FFFFFF?style=flat&logo=&logoColor=000000&color=4CAF50&labelColor=4CAF50&logoWidth=20" alt="Spotify Pricing Strategy" />
+  </a>
+</div>
+
 
 
 
