@@ -10,8 +10,6 @@ I’ve managed chocolates at Instamart and was part of the founding team for Sna
 focusing on category metrics, operations, growth, and vendor partnerships. 
 <br>Data guides my strategic decisions.
 
-I started in direct sales and enjoy research-led problem solving. <br>
-Currently, I’m improving my SQL skills and eager for new business challenges.
 
 
 ## 🌐 Socials:
