@@ -1,11 +1,16 @@
 # About Me:
 
-Hello! 
-I’m curious what makes people tick, blending psychology and business to decode consumer behavior. With a Bachelor’s in Psychology and an MBA from IIM Trichy (dual major: Marketing & Operations), I currently drive category growth at Swiggy.
+Hello! <br>
 
-From managing chocolates at Instamart to being part of the founding team for Snacc: Swiggy’s 0-to-1 QSR venture, I’ve worked across category metrics, supply operations, growth and vendor partnerships.I rely on data to uncover insights and turn them into actionable strategy.
 
-I began my career in direct sales and have always enjoyed applying a research-led approach through case studies  and strategic problem solving. Currently sharpening my SQL skills and always up for new business challenges.
+I’m driven by the curiosity to uncover what shapes consumer decisions, blending insights from psychology and business. <br>
+
+With a Bachelor’s in Psychology and an MBA from IIM Trichy , I currently drive category growth at Swiggy.
+
+From managing chocolates at Instamart to being part of the founding team for Snacc: Swiggy’s 0-to-1 QSR venture, I’ve worked across category metrics, supply operations, growth and vendor partnerships. I rely on data to uncover insights and turn them into actionable strategy.
+
+I began my career in direct sales and have always enjoyed applying a research-led approach through case studies  and strategic problem solving. <br>
+Currently sharpening my SQL skills and always up for new business challenges.
 
 
 ## 🌐 Socials:
