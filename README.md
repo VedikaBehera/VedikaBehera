@@ -23,12 +23,11 @@ partnerships, all driven by data-driven strategies.
 
 ## 📈 Projects I've worked on:
 
-
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
   <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
     1. New product launch strategy
   </div>
-  <a href="https://docdro.id/nc1vioX" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+  <a href="https://drive.google.com/file/d/1LqF4Qwj03YHNca0dZLIewOPRS2Fgxjjb/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/GTM%3A%20The%20Whole%20Truth-FFC0CB?style=flat&logo=&logoColor=purple&color=FFC0CB&labelColor=FFC0CB&logoWidth=20" alt="GTM: The Whole Truth" />
   </a>
 </div>
