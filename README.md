@@ -26,17 +26,59 @@ Currently sharpening my SQL skills and always up for new business challenges.
 ## 📈 Projects I've worked on:
 
 
-[![GTM: The Whole Truth](https://img.shields.io/badge/GTM%3A%20The%20Whole%20Truth-FFC0CB?style=flat&logo=&logoColor=purple&color=FFC0CB&labelColor=FFC0CB&logoWidth=20)](https://www.dropbox.com/scl/fi/mwh14ulyhemzo1274l8nm/Whole-Truth-Dilemma.pdf?rlkey=bxzwlry2s90yjsr0pe8cq193k&st=nmjkprki&dl=0)  
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
+  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
+    1. Exploring whitespace in a brand’s portfolio
+  </div>
+  <a href="https://www.dropbox.com/scl/fi/mwh14ulyhemzo1274l8nm/Whole-Truth-Dilemma.pdf?rlkey=bxzwlry2s90yjsr0pe8cq193k&st=nmjkprki&dl=0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/GTM%3A%20The%20Whole%20Truth-FFC0CB?style=flat&logo=&logoColor=purple&color=FFC0CB&labelColor=FFC0CB&logoWidth=20" alt="GTM: The Whole Truth" />
+  </a>
+</div>
 
-[![Play the Lifebuoy Game](https://img.shields.io/badge/Play%20the%20Lifebuoy%20Game%3F-FF0000?style=flat&logo=&logoColor=white&color=FF0000&labelColor=FF0000&logoWidth=20)](https://www.dropbox.com/scl/fi/w9acm62buiu8q4nliz0jp/Lifebuoy-Brand-Gamification.m)
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
+  <div style="font-size: 12px; color: #333; margin-bottom: 6px;"> 
+    <br>
+    2. Boosting brand engagement with mobile gaming to drive loyalty.
+  </div>
+  <a href="https://www.dropbox.com/scl/fi/w9acm62buiu8q4nliz0jp/Lifebuoy-Brand-Gamification.m" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Play%20the%20Lifebuoy%20Game%3F-FF0000?style=flat&logo=&logoColor=white&color=FF0000&labelColor=FF0000&logoWidth=20" alt="Play the Lifebuoy Game?" />
+  </a>
+</div>
+
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
+  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
+      <br>
+    3. Understanding consumer behavior in the facewash category.
+  </div>
+  <a href="https://www.dropbox.com/scl/fi/96efs029dbaliytpw24rf/Medimix.png?rlkey=jmqimmqzkdt9bwjavoemluwxf&st=ju8kiys9&dl=0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Market%20Research%20%3A%20Medimix-006400?style=flat&logo=&logoColor=FFFFE0&color=006400&labelColor=006400&logoWidth=20" alt="Market Research : Medimix" />
+  </a>
+</div>
+
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
+  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
+      <br>
+    4. User pain points, personas & strategy for new brand launch.
+  </div>
+  <a href="https://www.dropbox.com/scl/fi/llj64y03p9uac7rix0lpn/Hieq.in-Analysis.png?rlkey=9vjkqix6apb3rqy1jhz2672jg&st=9d9lp7aj&dl=0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Hieq.in%3A%20Hiring%20Solution-FFFACD?style=flat&logo=&logoColor=77DD77&color=FFFACD&labelColor=FFFACD&logoWidth=20" alt="Hieq.in: Hiring Solution" />
+  </a>
+</div>
+
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
+  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
+      <br>
+    5. Market research & strategy to enter Indian IoT market.
+  </div>
+  <a href="https://www.dropbox.com/scl/fi/k8m1p1sp4l536vaz9750b/Samsung-s-New-Tech.png?rlkey=8jfzp3cd8q4wltkwn6i52vrpa&st=kz6yzko" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Samsung%20IOT%20Penetration-FFFFFF?style=flat&logo=&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&logoWidth=20" alt="Samsung IOT Penetration" />
+  </a>
+</div>
 
 
-[![Market Research : Medimix](https://img.shields.io/badge/Market%20Research%20%3A%20Medimix-006400?style=flat&logo=&logoColor=FFFFE0&color=006400&labelColor=006400&logoWidth=20)](https://www.dropbox.com/scl/fi/96efs029dbaliytpw24rf/Medimix.png?rlkey=jmqimmqzkdt9bwjavoemluwxf&st=ju8kiys9&dl=0)
 
 
-[![Hieq.in: Hiring Solution](https://img.shields.io/badge/Hieq.in%3A%20Hiring%20Solution-FFFACD?style=flat&logo=&logoColor=77DD77&color=FFFACD&labelColor=FFFACD&logoWidth=20)](https://www.dropbox.com/scl/fi/llj64y03p9uac7rix0lpn/Hieq.in-Analysis.png?rlkey=9vjkqix6apb3rqy1jhz2672jg&st=9d9lp7aj&dl=0)
 
-[![Samsung IOT Penetration](https://img.shields.io/badge/Samsung%20IOT%20Penetration-FFFFFF?style=flat&logo=&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&logoWidth=20)](https://www.dropbox.com/scl/fi/k8m1p1sp4l536vaz9750b/Samsung-s-New-Tech.png?rlkey=8jfzp3cd8q4wltkwn6i52vrpa&st=kz6yzko)
 
 
 
