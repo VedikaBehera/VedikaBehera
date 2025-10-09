@@ -49,38 +49,47 @@ partnerships, all driven by data-driven strategies.
       <br>
     3. Brand repositioning strategy : Facewash Category
   </div>
-  <a href="https://www.dropbox.com/scl/fi/96efs029dbaliytpw24rf/Medimix.png?rlkey=jmqimmqzkdt9bwjavoemluwxf&st=ju8kiys9&dl=0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+  <a href="https://drive.google.com/file/d/1fKJOciti_DVYmkxSjqLD1NT5DyrrZ3Nn/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Market%20Research%20%3A%20Medimix-006400?style=flat&logo=&logoColor=FFFFE0&color=006400&labelColor=006400&logoWidth=20" alt="Market Research : Medimix" />
   </a>
 </div>
+
+
 
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
   <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
       <br>
     4. User pain points, personas & strategy for new brand launch.
   </div>
-  <a href="https://www.dropbox.com/scl/fi/llj64y03p9uac7rix0lpn/Hieq.in-Analysis.png?rlkey=9vjkqix6apb3rqy1jhz2672jg&st=9d9lp7aj&dl=0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+  <a href="https://drive.google.com/file/d/12nNQMdxb2_JAjnHSDdz2fkiD3SAnV0m7/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Hieq.in%3A%20Hiring%20Solution-FFFACD?style=flat&logo=&logoColor=77DD77&color=FFFACD&labelColor=FFFACD&logoWidth=20" alt="Hieq.in: Hiring Solution" />
   </a>
 </div>
+
+
 
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
   <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
       <br>
     5. Strategic market entry analysis for Indian IoT segment
   </div>
-  <a href="https://www.dropbox.com/scl/fi/k8m1p1sp4l536vaz9750b/Samsung-s-New-Tech.png?rlkey=8jfzp3cd8q4wltkwn6i52vrpa&st=kz6yzko" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+  <a href="https://drive.google.com/file/d/1-9jtLIeG_GIUuV1ZnBu6Y_jvQirMaeiZ/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Samsung%20IOT%20Penetration-FFFFFF?style=flat&logo=&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&logoWidth=20" alt="Samsung IOT Penetration" />
   </a>
 </div>
 <br>
 
-<div>
-  <div>6. Pricing Strategy Optimization: Freemium to Premium</div>
-  <a href="https://www.dropbox.com/scl/fi/5lzh5op0f00p3o7wei84w/Spotify.png?rlkey=bkazgrsv9geabsizeciagos4t&st=4t6csx14&dl=0" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Spotify%20Pricing%20Strategy-FFFFFF?style=flat&logo=&logoColor=000000&color=4CAF50&labelColor=4CAF50&logoWidth=20" alt="Spotify Pricing Strategy" />
+
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
+  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
+    <br>
+    6. Pricing Strategy Optimization: Freemium to Premium
+  </div>
+  <a href="https://drive.google.com/file/d/1rDJ8AEKD0ckIapFGFo5nhHGhaFOzJqSf/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Spotify%20Pricing%20Strategy-4CAF50?style=flat&logo=&logoColor=000000&color=4CAF50&labelColor=4CAF50&logoWidth=20" alt="Spotify Pricing Strategy" />
   </a>
 </div>
+
 
 
 
