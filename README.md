@@ -77,7 +77,6 @@ partnerships, all driven by data-driven strategies.
     <img src="https://img.shields.io/badge/Samsung%20IOT%20Penetration-FFFFFF?style=flat&logo=&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&logoWidth=20" alt="Samsung IOT Penetration" />
   </a>
 </div>
-<br>
 
 
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
