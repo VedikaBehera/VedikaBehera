@@ -7,7 +7,7 @@ I’m curious about what drives consumer decisions, blending psychology and busi
 I currently lead category growth at Swiggy.
 
 I’ve managed a 70+Cr portfolio at Instamart and I'm part of the founding team for Snacc, Swiggy’s QSR venture, <br>
-which expanded from 4 to 60+ locations. My focus area include category metrics, supply & operations, growth, and vendor <br>
+and helped schaled this from 4 to 60+ locations. My focus area include category metrics, supply & operations, growth, and vendor <br>
 partnerships, all driven by data-driven strategies.
 
 
