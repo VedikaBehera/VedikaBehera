@@ -18,7 +18,7 @@ partnerships, all driven by data-driven strategies.
 
 
 ## 📄 Resume :
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-3DBE29?style=flat&logo=dropbox&logoColor=white)](https://www.dropbox.com/scl/fi/bkr7c7ss7962xdgclqnfk/VedikaBehera_IIMTiruchirapalli.pdf?rlkey=vnezum1io8mdqpjcwld9m2rzd&st=o4fa7u9t&dl=0)
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-3DBE29?style=flat&logo=dropbox&logoColor=white)](https://drive.google.com/file/d/1K3ieNGn5dpeSYgQ7waYtIJbPMGh6X36G/view?usp=drive_link)
 
 
 ## 📈 Projects I've worked on:
